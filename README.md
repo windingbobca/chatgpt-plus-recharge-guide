@@ -1,5 +1,7 @@
 # ChatGPT Plus 充值、代充与购买指南
 
+![ChatGPT Plus 充值、代充与购买指南](assets/plus-guide-cover.svg)
+
 如果你正在搜索 ChatGPT Plus 充值、ChatGPT Plus 代充、ChatGPT Plus 购买、ChatGPT Plus 多少钱、ChatGPT Plus 账号充值或 ChatGPT Plus 新账号，这份指南把常见问题、办理方式、价格口径和账号安全注意事项整理在一起。
 
 ## 先看：账号安全优先
@@ -25,6 +27,8 @@ OpenOBT 的实际销售价格、活动价、可选时长和库存属于商店信
 - [ChatGPT Plus 新账号](https://openobt.com/products/gpt_plus)
 
 ## ChatGPT Plus 代充流程
+
+![ChatGPT Plus 安全办理流程](assets/plus-safe-flow.svg)
 
 ### ChatGPT Plus 充值需要什么？
 
@@ -120,4 +124,3 @@ OpenAI 官方定价文档当前列出的 Plus 价格基准为 $20/月；OpenOBT 
 - 本仓库是 ChatGPT Plus 充值、代充、购买和新账号的服务指南，不保存任何账号密码、验证码、API Key 或客户订单信息。
 - 本仓库的 OpenAI 套餐信息按 2026-09-20 官方文档整理；商店服务信息以 OpenOBT 当前页面为准。
 - 本仓库不提供绕过审核、规避封禁或自动化滥用平台的技巧。
-

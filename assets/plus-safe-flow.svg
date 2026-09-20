@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">ChatGPT Plus 安全办理流程</title>
+  <desc id="desc">Choose service, place order, confirm status, secure account, and contact support.</desc>
+  <rect width="1600" height="520" fill="#f8fafc"/>
+  <text x="90" y="82" fill="#0f172a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="42" font-weight="800">ChatGPT Plus 安全办理流程</text>
+  <text x="90" y="126" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="22">从选择服务到售后，每一步都保留必要凭证，不在公开页面提交敏感信息</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <g transform="translate(90 210)">
+      <circle cx="60" cy="60" r="60" fill="#ffedd5"/>
+      <text x="60" y="80" text-anchor="middle" fill="#c2410c" font-size="46" font-weight="800">1</text>
+      <text x="0" y="165" fill="#0f172a" font-size="28" font-weight="700">选择方式</text>
+      <text x="0" y="201" fill="#64748b" font-size="20">账号充值 / 新账号</text>
+    </g>
+    <path d="M300 270h90" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round"/>
+    <path d="M370 250l24 20-24 20" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(430 210)">
+      <circle cx="60" cy="60" r="60" fill="#dbeafe"/>
+      <text x="60" y="80" text-anchor="middle" fill="#1d4ed8" font-size="46" font-weight="800">2</text>
+      <text x="0" y="165" fill="#0f172a" font-size="28" font-weight="700">查看商品页</text>
+      <text x="0" y="201" fill="#64748b" font-size="20">价格 / 时长 / 规则</text>
+    </g>
+    <path d="M640 270h90" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round"/>
+    <path d="M710 250l24 20-24 20" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(770 210)">
+      <circle cx="60" cy="60" r="60" fill="#e0e7ff"/>
+      <text x="60" y="80" text-anchor="middle" fill="#4338ca" font-size="46" font-weight="800">3</text>
+      <text x="0" y="165" fill="#0f172a" font-size="28" font-weight="700">完成订单</text>
+      <text x="0" y="201" fill="#64748b" font-size="20">不重复付款</text>
+    </g>
+    <path d="M980 270h90" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round"/>
+    <path d="M1050 250l24 20-24 20" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(1110 210)">
+      <circle cx="60" cy="60" r="60" fill="#dcfce7"/>
+      <text x="60" y="80" text-anchor="middle" fill="#15803d" font-size="46" font-weight="800">4</text>
+      <text x="0" y="165" fill="#0f172a" font-size="28" font-weight="700">检查与改密</text>
+      <text x="0" y="201" fill="#64748b" font-size="20">核对套餐和有效期</text>
+    </g>
+    <path d="M1320 270h90" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round"/>
+    <path d="M1390 250l24 20-24 20" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(1450 210)">
+      <circle cx="60" cy="60" r="60" fill="#fef3c7"/>
+      <text x="60" y="80" text-anchor="middle" fill="#a16207" font-size="46" font-weight="800">5</text>
+      <text x="0" y="165" fill="#0f172a" font-size="28" font-weight="700">保存凭证</text>
+      <text x="0" y="201" fill="#64748b" font-size="20">异常再联系售后</text>
+    </g>
+  </g>
+</svg>
